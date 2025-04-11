@@ -1,27 +1,53 @@
-## Project #2
-Give a high-level overview of the project purpose
-- What are the users?
-- What job does it form for them?
-- What inspired you to make it?
-- What features are the most important?
-- Include relevant screenshots
+https://github.com/LSanjyan/met-museum-app
 
-## Technologies
-- List all technologies and versions here
-- Include dependencies and versions
-- Note any deployment tools as well
+# Met Museum App
 
-## Competencies
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+The **Met Museum App** is a project designed to provide users with an interactive and engaging way to explore the vast collection of the Metropolitan Museum of Art. This app allows users to browse, search, and learn about various artworks and exhibits.
 
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+## Features
+
+- **Search Artworks**: Find artworks by title, artist, or category.
+- **Browse Collections**: Explore curated collections from the museum.
+- **Detailed Information**: View detailed descriptions, images, and historical context for each artwork.
+- **Responsive Design**: Optimized for both desktop and mobile devices.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/met-museum-app.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd met-museum-app
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm start
+   ```
+
+## Technologies Used
+
+- **Frontend**: React, Bootstrap
+- **Backend**: Node.js
+- **API**: The Metropolitan Museum of Art Collection API
+- **Test**: Jest React
+
+## Wireframe
+![Screenshot 2025-04-04 140848](https://github.com/user-attachments/assets/9b4cef6d-9e7f-45c4-baa1-7e1e467de0d2)
+
+## App Interface
+![Screenshot 2025-04-04 144014](https://github.com/user-attachments/assets/320a7cb5-2b69-408a-9bfc-6d1cc5465505)
+
+## Deployed App
+
+https://met-museum-app-1.onrender.com/
+
+## Contact
+
+For questions or feedback, please contact https://github.com/LSanjyan
+
